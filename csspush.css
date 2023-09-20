@@ -1,0 +1,12 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+}
+
+h1 {
+    background-color:green ;
+}
+
+.premierparagraphe {
+    text-decoration: underline;
+}
