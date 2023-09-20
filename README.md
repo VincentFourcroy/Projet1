@@ -4,7 +4,7 @@
 
 **Ce projet n'a pas de but défini pour le moment, il est en gestation.**
 
-_Les infos de référence du projet, qui vous expliquent quelles lignes de code j'ai utilisées pour push sur ce repo est dans le fichier push.html._
+_Les infos de référence du projet, qui vous expliquent quelles lignes de code j'ai utilisées pour push sur ce repository sont dans le fichier 'push.html'._
 
 A faire :
 
