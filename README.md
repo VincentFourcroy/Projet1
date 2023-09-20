@@ -4,9 +4,10 @@
 
 **Ce projet n'a pas de but défini pour le moment, il est en gestation.**
 
-*Les infos de référence du projet, qui vous expliquent quelles lignes de code j'ai utilisées pour push sur ce repo est dans le fichier push.html.*
+_Les infos de référence du projet, qui vous expliquent quelles lignes de code j'ai utilisées pour push sur ce repo est dans le fichier push.html._
 
 A faire :
+
 - [x] Apprendre à utiliser Github.
 - [ ] Définir un VRAI projet.
 - [ ] ???
@@ -15,3 +16,6 @@ A faire :
 Pour finir, une petite citation juste pour m'entraîner avec les balises en markdown :
 
 > C'est en faisant n'importe quoi qu'on devient n'importe qui.
+
+> [!NOTE]
+> Fichier sujet à de nombreux changements, tout comme ce fichier README.
