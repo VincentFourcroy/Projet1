@@ -8,20 +8,34 @@ body {
 img {  
     display: block;  
     margin-right: auto;
+    border-style:dashed;
+    border-width: 5px;
+    border-color: dodgerblue;
     }
 
 h1 {
     text-decoration:solid;
     background-color: dodgerblue;
     width: fit-content;
+    margin-left: 10px;
 }
 
 .vieux {
     font-size: x-large;
     font-family: Montserrat;
+    margin-left: 10px;
+}
 
+.random {
+    margin-left: 10px;
 }
 
 div {
-    display: inline-block
+    display: inline-block;
+}
+
+a {
+    color: dodgerblue;
+    font-size: x-large;
+    margin-left:50%
 }

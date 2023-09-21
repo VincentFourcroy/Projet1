@@ -1,19 +1,25 @@
 body {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Monserrat', sans-serif;
     font-size: 1em;
     height:100vh;
     width: 100vw;
+    text-align: center;
 }
 
 h1 {
     background-color:green ;
     width:fit-content;
+    border: solid thick black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 img {  
     display: block;  
     margin-left: auto;  
-    margin-right: auto; 
+    margin-right: auto;
+    border-style:groove;
+    border-width: 5px;
     } 
 
 .premierparagraphe {
@@ -23,5 +29,12 @@ img {
 .dernierparagraphe {
     padding: 5px;
     border: solid green;
-    width:fit-content
+    width:fit-content;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+a {
+    color:green;
+    font-size: x-large;
 }
